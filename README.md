@@ -23,3 +23,4 @@ Neste repositório vou apresentar o que aprendi no curso **Data Visualization: t
 - como acrescentar *séries* nos gráficos; 
 - e a utilizar o gráfico de pizza de forma correta. 
 
+Durante o curso, acompanhamos a jornada da Ana para elaborar um relatório destinado aos investidores e investidoras da empresa (fictícia) **Alura Market**, utilizando dados de diversos setores para responder questões específicas e potencializar a apresentação.
