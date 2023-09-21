@@ -163,3 +163,6 @@ Muito obrigada por chegar até aqui e até a próxima 🤗
 
 ## Ferramentas utilizadas 🧰
 
+<p>
+  <a href="https://www.google.com/sheets/about/" target="_blank" rel="noreferrer"> <img src="https://e7.pngegg.com/pngimages/301/1/png-clipart-google-sheets-logo-thumbnail.png" alt="google-sheets" width="40" height="40"/> </a>
+</p>
