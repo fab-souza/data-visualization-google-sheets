@@ -7,7 +7,7 @@
 | :placard: Vitrine.Dev |    |
 | -------------  | --- |
 | :sparkles: Nome        | **data-visualization-google-sheets**
-| :label: Tecnologias | python
+| :label: Tecnologias | Google Sheets
 | :rocket: URL         | 
 | :fire: Desafio     | Conteúdo do [curso](https://www.alura.com.br/curso-online-data-visualization-visualizacao-google-sheets)
 
