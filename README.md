@@ -157,7 +157,7 @@ Sei que a construção deste tipo de usina é mais rápida, quando comparado aos
 
 Seguindo neste otimismo, o país tem 821 centrais eólicas, com mais 210 que não tiveram sua construção iniciada e mais 156 em construção. Já sobre as geradoras fotovoltaicas, até metade de 2022, o Brasil tinha 8.592 centrais operando, com mais 106 em construção e 842 que ainda estavam no papel. 
 
-Em resumo, o país está caminhando rumo a uma ampliação na diversificação da matriz energética, algo que pode diminuir a dependência de energia elétrica proveniente da fonte hídrica.
+Em resumo, o país está caminhando rumo a uma ampliação na diversificação da matriz elétrica, algo que pode diminuir a dependência de energia elétrica proveniente da fonte hídrica.
 
 ---
 
