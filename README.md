@@ -133,11 +133,13 @@ Ao concluir este projeto, vejo que as análises obtidas na 1ª, 4ª e 5ª pergun
 
 3º: no gráfico, vemos que 61,7% (9.540) das usinas são de origem *Solar*. Diante desta informação, em conjunto com as duas anteriores, posso inferir que a mudança na Lei, em conjunto com incentivos fiscais, criou a demanda pela aquisição de sistemas fotovoltaicos. Que posteriormente, geraram o *boom* no número de usinas que entraram em operação nos últimos anos. 
 
-Em relação à segunda pergunta, eu não consegui inferir nenhuma hipótese relevante que justificasse a enorme diferença que há entre o número de usinas presentes no Pará, em relação aos demais. O estado também não possui boas condições de incidência solar ao longo do ano, algo que poderia justificar o número de usinas no local. 
+Em relação à segunda pergunta, eu não consegui inferir nenhuma hipótese relevante que justificasse a enorme diferença que há entre o número de usinas presentes no Pará, em relação aos demais. O estado também não possui boas condições de incidência solar ao longo do ano, algo que poderia justificar o número de usinas no local. Mas, independente desta condição, isso não impede a instalação de novos sistemas fotovoltaicos. E estou me referindo somente a este tipo de usina, porque sua instalação é mais rápida, quando comparada com uma usina hidrelétrica, por exemplo. 
 
 ![image](https://github.com/fab-souza/data-visualization-google-sheets/assets/67301805/eedcfc0e-552c-41a9-9829-6fc8a9c5ccca)
 
-Mas, independente desta condição, isso não impede a instalação de novos sistemas fotovoltaicos. E estou me referindo somente a este tipo de usina, porque sua instalação é mais rápida, quando comparada com uma usina hidrelétrica, por exemplo. 
+Diante esta inconsistência, retornei aos dados originais, apliquei um filtro na coluna dos *estados*, selecionando apenas as usinas localizadas no Pará, e procurei por um ponto que mostrasse onde começavam a aparecer as usinas fotovoltaicas. Após 105 registros, encontrei o que estava procurando. Na próxima imagem, da primeira linha até o final, a maioria dos empreendimentos registrados são de usinas fotovoltaicas registradas com o nome de pessoas físicas, com potência *outorgada* e *fiscalizada* de no máximo 3kW e 100% da geração de energia elétrica é destinada para a empresa Equatorial Energia.
+
+![image](https://github.com/fab-souza/data-visualization-google-sheets/assets/67301805/c3b5705f-2ffd-40f2-8dc7-0e1dc7e301b9)
 
 Já em relação à 3ª pergunta, o ponto que mais me chamou a atenção é que, apesar das mais de 3000 termelétricas em operação, ainda havia 56 em construção e mais 61 que não tiveram suas obras iniciadas…
 
