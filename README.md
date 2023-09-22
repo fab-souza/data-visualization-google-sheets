@@ -31,7 +31,7 @@ Durante o curso, acompanhamos a jornada da Ana para elaborar um relatório desti
 
 # Minha prática 👩🏻‍💻
 
-Para praticar o que aprendi, utilizei um dataset disponibilizado pelo [SIGA - Sistema de Informações de Geração da ANEEL] (https://dadosabertos.aneel.gov.br/dataset/siga-sistema-de-informacoes-de-geracao-da-aneel) referente ao parque gerador nacional, de diversas fontes de combustível e em diferentes fases: 
+Para praticar o que aprendi, utilizei um dataset disponibilizado pelo [SIGA - Sistema de Informações de Geração da ANEEL](https://dadosabertos.aneel.gov.br/dataset/siga-sistema-de-informacoes-de-geracao-da-aneel) referente ao parque gerador nacional, de diversas fontes de combustível e em diferentes fases: 
 - outorga;
 - construção não iniciada;
 - em construção;
