@@ -1,6 +1,6 @@
 # data-visualization-google-sheets
 
-![Badge em Desenvolvimento](http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge)
+![Badge em Desenvolvimento](http://img.shields.io/static/v1?label=STATUS&message=FINALIZADO&color=GREEN&style=for-the-badge)
 
 ![Badge code size](https://img.shields.io/github/languages/code-size/fab-souza/data-visualization-google-sheets)
 
@@ -137,9 +137,13 @@ Em relação à segunda pergunta, eu não consegui inferir nenhuma hipótese rel
 
 ![image](https://github.com/fab-souza/data-visualization-google-sheets/assets/67301805/eedcfc0e-552c-41a9-9829-6fc8a9c5ccca)
 
-Diante esta inconsistência, retornei aos dados originais, apliquei um filtro na coluna dos *estados*, selecionando apenas as usinas localizadas no Pará, e procurei por um ponto que mostrasse onde começavam a aparecer as usinas fotovoltaicas. Após 105 registros, encontrei o que estava procurando. Na próxima imagem, da primeira linha até o final, a maioria dos empreendimentos registrados são de usinas fotovoltaicas registradas com o nome de pessoas físicas, com potência *outorgada* e *fiscalizada* de no máximo 3kW e 100% da geração de energia elétrica é destinada para a empresa Equatorial Energia.
+Diante esta inconsistência, retornei aos dados originais, apliquei um filtro na coluna dos *estados*, selecionando apenas o Pará, e procurei por um ponto que mostrasse onde começavam a aparecer as usinas fotovoltaicas. Após 105 registros, encontrei o que estava procurando. Na próxima imagem, da primeira linha até o final, a maioria dos empreendimentos são de usinas fotovoltaicas registradas com o nome de pessoas físicas, com potência *outorgada* e *fiscalizada* de no máximo 3kW, ou seja, um sistema bem pequeno, e 100% da geração é destinada para a empresa Equatorial Energia.
 
-![image](https://github.com/fab-souza/data-visualization-google-sheets/assets/67301805/c3b5705f-2ffd-40f2-8dc7-0e1dc7e301b9)
+![dataset](https://github.com/fab-souza/data-visualization-google-sheets/assets/67301805/c3b5705f-2ffd-40f2-8dc7-0e1dc7e301b9)
+
+Com esta informação, consigo levantar a hipótese de que a concessionária adquiriu, ou aluga, parte de alguma propriedade destas pessoas e instalou o sistema fotovoltaico. Digo isto, porque quando eu estagiei em uma empresa de energia solar, a energia gerada pelo sistema *do cliente* era **do cliente**. Com exceção dos sistemas *off-grid* (que é quando não há conexão com uma rede elétrica), o excedente de energia gerado pelo sistema (quando o sistema *produz uma quantia maior* do que a casa *consumiu* ao longo do mês) ia para a concessionária, mas ficava registrada na conta do cliente como se fosse um *saldo*, que pode ser usado em até 60 meses quando o cliente consumir uma quantia de energia superior ao que foi gerado pelo sistema.
+
+![sistema-de-microgeração](https://github.com/fab-souza/data-visualization-google-sheets/assets/67301805/40aa059b-54a8-474f-94fe-932d5c2547ae)
 
 Já em relação à 3ª pergunta, o ponto que mais me chamou a atenção é que, apesar das mais de 3000 termelétricas em operação, ainda havia 56 em construção e mais 61 que não tiveram suas obras iniciadas…
 
