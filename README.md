@@ -125,13 +125,15 @@ Para finalizar, criei uma nova página para unir todas as análises.
 
 # Conclusão 🏁
 
-Ao concluir este projeto, vejo que as análises obtidas na 1ª, 4ª e 5ª pergunta, no meu ponto de vista, estão interligadas. Pois, 
+Ao concluir este projeto, vejo que as análises obtidas na 1ª, 4ª e 5ª pergunta, no meu ponto de vista, estão interligadas. Pois: 
 
 1º: a outorga que mais apareceu é do tipo *Registro*. Lembrando que este é o tipo de regulamentação usado para empreendimentos de potência instalada igual ou inferior a 5.000 kW. Ou seja, sabe aquele sistema fotovoltaico que muita gente instalou nas casas, comércio e indústrias nos últimos anos? Se ele for igual ou inferior a 5.000 kW, sua outorga será do tipo *Registro*.
 
 2º: a crescente no número de usinas que entraram em operação desde 2017, atribuo à [Resolução Normativa ANEEL nº 482/2012](http://www2.aneel.gov.br/cedoc/ren2012482.pdf), que permitiu que o consumidor brasileiro pode gerar sua própria energia elétrica a partir de fontes renováveis ou cogeração qualificada. (Fonte: [Agência Nacional de Energia Elétrica](https://www.gov.br/aneel/pt-br/assuntos/geracao-distribuida))
 
 3º: no gráfico, vemos que 61,7% (9.540) das usinas são de origem *Solar*. Diante desta informação, em conjunto com as duas anteriores, posso inferir que a mudança na Lei, em conjunto com incentivos fiscais, criou a demanda pela aquisição de sistemas fotovoltaicos. Que posteriormente, geraram o *boom* no número de usinas que entraram em operação nos últimos anos. 
+
+---
 
 Em relação à segunda pergunta, eu não consegui inferir nenhuma hipótese relevante que justificasse a enorme diferença que há entre o número de usinas presentes no Pará, em relação aos demais. O estado também não possui boas condições de incidência solar ao longo do ano, algo que poderia justificar o número de usinas no local. Mas, independente desta condição, isso não impede a instalação de novos sistemas fotovoltaicos. E estou me referindo somente a este tipo de usina, porque sua instalação é mais rápida, quando comparada com uma usina hidrelétrica, por exemplo. 
 
@@ -141,9 +143,15 @@ Diante esta inconsistência, retornei aos dados originais, apliquei um filtro na
 
 ![dataset](https://github.com/fab-souza/data-visualization-google-sheets/assets/67301805/c3b5705f-2ffd-40f2-8dc7-0e1dc7e301b9)
 
-Com esta informação, consigo levantar a hipótese de que a concessionária adquiriu, ou aluga, parte de alguma propriedade destas pessoas e instalou o sistema fotovoltaico. Digo isto, porque quando eu estagiei em uma empresa de energia solar, a energia gerada pelo sistema *do cliente* era **do cliente**. Com exceção dos sistemas *off-grid* (que é quando não há conexão com uma rede elétrica), o excedente de energia gerado pelo sistema (quando o sistema *produz uma quantia maior* do que a casa *consumiu* ao longo do mês) ia para a concessionária, mas ficava registrada na conta do cliente como se fosse um *saldo*, que pode ser usado em até 60 meses quando o cliente consumir uma quantia de energia superior ao que foi gerado pelo sistema.
+Com esta informação, consigo levantar a hipótese de que a concessionária adquiriu, ou aluga, parte de alguma propriedade destas pessoas e instalou o sistema fotovoltaico. Digo isto, porque quando eu estagiei em uma empresa de energia solar, a energia gerada pelo sistema *do cliente* era **do cliente**. Com exceção dos sistemas *off-grid* (que é quando não há conexão com uma rede elétrica), o excedente de energia gerado pelo sistema (quando o sistema *produz uma quantia maior* do que a casa *consumiu* ao longo do mês) ia para a concessionária, mas ficava registrada na conta do cliente como se fosse um *saldo positivo*, que pode ser usado em até 60 meses quando o cliente consumir uma quantia de energia superior ao que foi gerado pelo sistema.
+
+Caso tenha curiosidade, a próxima imagem ilustra o funcionamento de um sistema fotovoltaico, mas não posso afirmar que a configuração seja a mesma nas usinas no Pará.
 
 ![sistema-de-microgeração](https://github.com/fab-souza/data-visualization-google-sheets/assets/67301805/40aa059b-54a8-474f-94fe-932d5c2547ae)
+
+Dito isso, também consigo inferir que estas usinas afetaram as respostas das outras perguntas. Já que este tipo de empreendimento está sob outorga *Registro*, suas instalações começaram em 2017 e totalizando em mais de 60% no gráfico “% da origem dos combustíveis”. Na conclusão das perguntas 1, 4 e 5, os pontos que destaquei podem até ser válidos se estivéssemos tratando de dados referentes a usinas que foram instaladas pelo consumidor. Mas, diante estes fatos, fica de sugestão fazer uma nova análise excluindo estas usinas e, posteriormente, comparar os resultados.
+
+---
 
 Já em relação à 3ª pergunta, o ponto que mais me chamou a atenção é que, apesar das mais de 3000 termelétricas em operação, ainda havia 56 em construção e mais 61 que não tiveram suas obras iniciadas…
 
